@@ -5,22 +5,22 @@ This repository contains all the tasks completed as part of the CODEVEDX Tech In
 ## Tasks
 
 ### Task 1
-- Project Name:
+- Project Name:mobile login app
 - Technologies Used: HTML, CSS, JavaScript
 - Folder: Task-1
 
 ### Task 2
-- Project Name:
+- Project Name:email template 
 - Technologies Used: HTML, CSS, JavaScript
 - Folder: Task-2
 
 ### Task 3
-- Project Name:
+- Project Name: restaurant menu 
 - Technologies Used: HTML, CSS, JavaScript
 - Folder: Task-3
 
 ### Task 4
-- Project Name:
+- Project Name:e commerce website 
 - Technologies Used: HTML, CSS, JavaScript
 - Folder: Task-4
 
